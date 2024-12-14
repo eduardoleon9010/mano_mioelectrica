@@ -33,7 +33,7 @@ Para quienes deseen descargar el proyecto, los recursos están disponibles a con
 
 Como parte de **Misión Arm**, implementamos licencias específicas para facilitar el acceso a los códigos fuente y datos con fines educativos e investigativos.
 
-1. **[Licencia y Condiciones de Uso](licencia.md)**  
+1. **[Licencia y Condiciones de Uso](https://github.com/eduardoleon9010/mano_mioelectrica/blob/main/licencia.md)**  
    Detalla los permisos, restricciones y términos de uso aplicables a los recursos incluidos en este repositorio.  
 
 2. **[Descargo de Responsabilidad](https://github.com/eduardoleon9010/mano_mioelectrica/blob/main/descargo.md)**  
