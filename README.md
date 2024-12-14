@@ -9,20 +9,6 @@ La misión principal de este repositorio, como miembro colaborador de **Misión 
 ## 🤝 Filosofía de código abierto y sin ánimo de lucro
 En línea con los principios de **Misión Arm,** este repositorio sigue una filosofía de código abierto y opera con un enfoque académico y de investigación, sin fines de lucro. Todos los recursos están destinados exclusivamente para uso educativo e investigativo.
 
-## 📜 Licencias y condiciones
-Como parte de **Misión Arm**, implementamos licencias específicas para facilitar el acceso a los códigos fuente y datos con fines educativos e investigativos.
-
-### Detalles de licencias
-
-- **Códigos fuente para software**:
-  - *Arduino Sketch* (código fuente para el Arduino Micro de los brazos artificiales): **Licencia Pública General GNU v3**.
-
-- **Datos del hardware**:
-  - Datos en 3D (configuración de partes de los brazos artificiales): **Creative Commons BY-NC-SA 4.0 Internacional**.
-  - Datos de sustratos de mano (circuitos que conectan placas de microcontroladores, motores, sensores y baterías): **Creative Commons BY-NC-SA 4.0 Internacional**.
-  - Datos de sustratos de sensores (para fijar fotosensores de tipo reflexión que detectan crestas en el tejido muscular): **Creative Commons BY-NC-SA 4.0 Internacional**.
-  - Datos de sustratos de baterías (circuitos integrados en cajas de baterías): **Creative Commons BY-NC-SA 4.0 Internacional**.
-
 ## 🛡️ Compromiso ético y legal
 Este proyecto establece condiciones claras de uso para asegurar que los recursos:
 
@@ -42,5 +28,20 @@ Para quienes deseen descargar el proyecto, los recursos están disponibles a con
 - [📂 Piezas para impresion 3D](https://cienciatecnologiayfuturo.blogspot.com/2023/11/hackberry-una-protesis-robotica-de.html)
 - 
 - [📄 Script](https://github.com/eduardoleon9010/Hackberry-hand/blob/main/script.md)
+
+## 📜 Licencia y Descargo de Responsabilidad
+
+Como parte de **Misión Arm**, implementamos licencias específicas para facilitar el acceso a los códigos fuente y datos con fines educativos e investigativos.
+
+1. **[Licencia y Condiciones de Uso](licencia.md)**  
+   Detalla los permisos, restricciones y términos de uso aplicables a los recursos incluidos en este repositorio.  
+
+2. **[Descargo de Responsabilidad](descargo.md)**  
+   Especifica las limitaciones de responsabilidad y el propósito académico e investigativo del proyecto.  
+
+**Nota importante**: Antes de usar o contribuir al proyecto, te recomendamos leer detenidamente ambos documentos para asegurarte de cumplir con los términos establecidos.  
+
+Si tienes dudas, por favor, ponte en contacto con la comunidad **Misión Arm**.  
+
 
 Gracias por tu interés y por formar parte de esta iniciativa innovadora. ¡Esperamos tus contribuciones! 🚀
