@@ -36,7 +36,7 @@ Como parte de **Misión Arm**, implementamos licencias específicas para facilit
 1. **[Licencia y Condiciones de Uso](licencia.md)**  
    Detalla los permisos, restricciones y términos de uso aplicables a los recursos incluidos en este repositorio.  
 
-2. **[Descargo de Responsabilidad](descargo.md)**  
+2. **[Descargo de Responsabilidad](https://github.com/eduardoleon9010/mano_mioelectrica/blob/main/descargo.md)**  
    Especifica las limitaciones de responsabilidad y el propósito académico e investigativo del proyecto.  
 
 **Nota importante**: Antes de usar o contribuir al proyecto, te recomendamos leer detenidamente ambos documentos para asegurarte de cumplir con los términos establecidos.  
