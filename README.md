@@ -1,47 +1,67 @@
-# 🤖 Proyecto HACKberry: Miembro colaborador de Misión Arm
+<h1 align="center">Proyecto HACKberry: Miembro colaborador de Misión Arm</h1>
 
-🌎 **Visión general**
-Este es un repositorio colaborativo de la comunidad **Misión Arm,** dedicado al desarrollo académico e investigativo en el campo de las extremidades artificiales. Impulsado por la participación activa de desarrolladores y expertos, este proyecto se enfoca en la innovación tecnológica para mejorar la calidad de vida mediante el desarrollo de brazos artificiales.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=16A34A&size=24&center=true&vCenter=true&width=800&height=60&lines=Innovaci%C3%B3n+en+pr%C3%B3tesis+rob%C3%B3ticas;Colaboraci%C3%B3n+acad%C3%A9mica+abierta;Desarrollo+de+extremidades+artificiales;Conocimiento+libre+y+sin+%C3%A1nimo+de+lucro;Compromiso+%C3%A9tico+y+legal"/>
+  </a>
+</p>
 
-🎯 **Misión**
-La misión principal de este repositorio, como miembro colaborador de **Misión Arm,** es promover el intercambio de conocimientos y la investigación entre académicos, estudiantes e investigadores interesados en el avance del campo de las extremidades artificiales.
+<p align="center">
+  Este repositorio colaborativo, como parte de <strong>Misión Arm</strong>, está orientado a la investigación, desarrollo y educación en el campo de las extremidades artificiales. Promueve el avance científico y tecnológico mediante el trabajo conjunto entre desarrolladores, investigadores y académicos.
+</p>
 
-🤝 **Filosofía de código abierto y sin ánimo de lucro**
-En línea con los principios de **Misión Arm,** este repositorio sigue una filosofía de código abierto y opera con un enfoque académico y de investigación, sin fines de lucro. Todos los recursos están destinados exclusivamente para uso educativo e investigativo.
+---
 
-🛡️ **Compromiso ético y legal**
-Este proyecto establece condiciones claras de uso para asegurar que los recursos:
+## Visión general
 
-1. No se utilicen con fines militares.
-2. No se empleen en actividades contrarias al orden público o moral.
-3. No perjudiquen la reputación de la comunidad **Misión Arm.**
+Este es un repositorio colaborativo impulsado por la comunidad <strong>Misión Arm</strong>. Su objetivo es impulsar la innovación tecnológica en prótesis robóticas, específicamente en el desarrollo de brazos artificiales funcionales, accesibles y personalizables.
 
-## 👥 Contribuciones y participación
-Como miembros colaboradores de **Misión Arm**, invitamos a desarrolladores, académicos e investigadores a contribuir a este proyecto y ser parte de esta comunidad comprometida con el avance de la tecnología en extremidades artificiales.
+## Misión
 
-🚨 **Aviso importante**
-Este repositorio está orientado exclusivamente a fines académicos e investigativos, sin ánimo de lucro, como parte de la comunidad **Misión Arm.** Por favor, lea detenidamente la política de código abierto y las condiciones de uso antes de contribuir o utilizar los recursos proporcionados.
+La misión principal es fomentar el intercambio de conocimientos y recursos entre investigadores, estudiantes e instituciones interesadas en el avance de las extremidades artificiales, manteniendo un enfoque científico y socialmente responsable.
 
-📥 **Enlace de descarga**
-Para quienes deseen descargar el proyecto, los recursos están disponibles a continuacion:
+## Filosofía de código abierto y sin ánimo de lucro
 
-- [📂 Piezas para impresion 3D](https://cienciatecnologiayfuturo.blogspot.com/2023/11/hackberry-una-protesis-robotica-de.html)
-- 
-- [📄 Script](https://github.com/eduardoleon9010/Hackberry-hand/blob/main/script.md)
+Este repositorio se rige por principios de colaboración abierta, acceso libre y uso exclusivamente educativo e investigativo. Ningún recurso está destinado a actividades comerciales o privadas.
 
-📜 **Licencia y Descargo de Responsabilidad**
+## Compromiso ético y legal
 
-Como parte de **Misión Arm**, implementamos licencias específicas para facilitar el acceso a los códigos fuente y datos con fines educativos e investigativos.
+Para preservar la integridad del proyecto, se establecen las siguientes restricciones:
 
-1. **[Licencia y Condiciones de Uso](https://github.com/eduardoleon9010/mano_mioelectrica/blob/main/licencia.md)**  
-   Detalla los permisos, restricciones y términos de uso aplicables a los recursos incluidos en este repositorio.  
+- No utilizar con fines militares o de defensa.
+- No aplicar en contextos que atenten contra el orden público o los derechos humanos.
+- No emplear de forma que comprometa la reputación de la comunidad <strong>Misión Arm</strong>.
 
-2. **[Descargo de Responsabilidad](https://github.com/eduardoleon9010/mano_mioelectrica/blob/main/descargo.md)**  
-   Especifica las limitaciones de responsabilidad y el propósito académico e investigativo del proyecto.  
+---
 
-**Nota importante**: Antes de usar o contribuir al proyecto, te recomendamos leer detenidamente ambos documentos para asegurarte de cumplir con los términos establecidos.  
+## Contribuciones y participación
 
-Si tienes dudas, por favor, ponte en contacto con la comunidad **Misión Arm**.  
+Invitamos a desarrolladores, estudiantes e investigadores a sumarse a esta iniciativa. Puedes colaborar con mejoras, documentación, diseño de piezas, scripts y otros recursos alineados con los objetivos del proyecto.
 
+---
 
-Gracias por tu interés y por formar parte de esta iniciativa innovadora. ¡Esperamos tus contribuciones! 🚀
+## Aviso importante
+
+Este repositorio tiene un propósito estrictamente académico y de investigación. Antes de utilizar o contribuir, asegúrate de haber leído la política de código abierto y condiciones de uso.
+
+---
+
+## Enlace de descarga
+
+Los recursos principales del proyecto están disponibles en los siguientes enlaces:
+
+- <a href="https://cienciatecnologiayfuturo.blogspot.com/2023/11/hackberry-una-protesis-robotica-de.html"><strong>Piezas para impresión 3D</strong></a>
+- <a href="https://github.com/eduardoleon9010/Hackberry-hand/blob/main/script.md"><strong>Script de control</strong></a>
+
+---
+
+## Licencia y Descargo de Responsabilidad
+
+Este repositorio está respaldado por licencias claras que definen el uso adecuado de los recursos:
+
+- <a href="https://github.com/eduardoleon9010/mano_mioelectrica/blob/main/licencia.md"><strong>Licencia y Condiciones de Uso</strong></a>: Detalla los permisos, restricciones y términos.
+- <a href="https://github.com/eduardoleon9010/mano_mioelectrica/blob/main/descargo.md"><strong>Descargo de Responsabilidad</strong></a>: Define el propósito académico e investigativo y limita responsabilidades legales.
+
+<p><strong>Nota:</strong> Antes de utilizar el contenido o contribuir, revisa ambos documentos para cumplir con los principios éticos del proyecto.</p>
+
+<p align="center" style="font-weight:bold; color:#1e293b;">Gracias por formar parte de esta iniciativa educativa e innovadora.</p>
