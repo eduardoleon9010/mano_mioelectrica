@@ -10,21 +10,20 @@
   Este repositorio colaborativo, como parte de <strong>Misión Arm</strong>, está orientado a la investigación, desarrollo y educación en el campo de las extremidades artificiales. Promueve el avance científico y tecnológico mediante el trabajo conjunto entre desarrolladores, investigadores y académicos.
 </p>
 
----
 
-## Visión general
+**Visión general**
 
 Este es un repositorio colaborativo impulsado por la comunidad <strong>Misión Arm</strong>. Su objetivo es impulsar la innovación tecnológica en prótesis robóticas, específicamente en el desarrollo de brazos artificiales funcionales, accesibles y personalizables.
 
-## Misión
+**Misión**
 
 La misión principal es fomentar el intercambio de conocimientos y recursos entre investigadores, estudiantes e instituciones interesadas en el avance de las extremidades artificiales, manteniendo un enfoque científico y socialmente responsable.
 
-## Filosofía de código abierto y sin ánimo de lucro
+**Filosofía de código abierto y sin ánimo de lucro**
 
 Este repositorio se rige por principios de colaboración abierta, acceso libre y uso exclusivamente educativo e investigativo. Ningún recurso está destinado a actividades comerciales o privadas.
 
-## Compromiso ético y legal
+**Compromiso ético y legal**
 
 Para preservar la integridad del proyecto, se establecen las siguientes restricciones:
 
@@ -32,30 +31,24 @@ Para preservar la integridad del proyecto, se establecen las siguientes restricc
 - No aplicar en contextos que atenten contra el orden público o los derechos humanos.
 - No emplear de forma que comprometa la reputación de la comunidad <strong>Misión Arm</strong>.
 
----
 
 ## Contribuciones y participación
 
 Invitamos a desarrolladores, estudiantes e investigadores a sumarse a esta iniciativa. Puedes colaborar con mejoras, documentación, diseño de piezas, scripts y otros recursos alineados con los objetivos del proyecto.
 
----
 
-## Aviso importante
+**Aviso importante**
 
 Este repositorio tiene un propósito estrictamente académico y de investigación. Antes de utilizar o contribuir, asegúrate de haber leído la política de código abierto y condiciones de uso.
 
----
-
-## Enlace de descarga
+**Enlace de descarga**
 
 Los recursos principales del proyecto están disponibles en los siguientes enlaces:
 
 - <a href="https://cienciatecnologiayfuturo.blogspot.com/2023/11/hackberry-una-protesis-robotica-de.html"><strong>Piezas para impresión 3D</strong></a>
 - <a href="https://github.com/eduardoleon9010/Hackberry-hand/blob/main/script.md"><strong>Script de control</strong></a>
 
----
-
-## Licencia y Descargo de Responsabilidad
+**Licencia y Descargo de Responsabilidad**
 
 Este repositorio está respaldado por licencias claras que definen el uso adecuado de los recursos:
 
