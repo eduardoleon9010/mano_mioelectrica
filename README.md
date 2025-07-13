@@ -31,8 +31,7 @@ Para preservar la integridad del proyecto, se establecen las siguientes restricc
   - No aplicar en contextos que atenten contra el orden público o los derechos humanos.
   - No emplear de forma que comprometa la reputación de la comunidad <strong>Misión Arm</strong>.
 
-
-## Contribuciones y participación
+**Contribuciones y participación**
 
 Invitamos a desarrolladores, estudiantes e investigadores a sumarse a esta iniciativa. Puedes colaborar con mejoras, documentación, diseño de piezas, scripts y otros recursos alineados con los objetivos del proyecto.
 
