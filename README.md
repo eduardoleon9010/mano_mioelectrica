@@ -1,7 +1,7 @@
 <h1 align="center">Proyecto HACKberry: Miembro colaborador de Misión Arm</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/eduardoleon9010/Hackberry-hand/main/img/hackberry_banner.png" alt="Hackberry Arm" style="max-width: 100%; border-radius: 8px;">
+  <img src="https://drive.google.com/uc?id=1QISLB7tPZNtT0P0PyED_Xs7Tk1OECdlX" alt="Hackberry Arm" style="max-width: 100%; border-radius: 8px;">
 </p>
 
 <p align="center">
