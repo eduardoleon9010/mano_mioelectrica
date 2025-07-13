@@ -1,10 +1,15 @@
 <h1 align="center">Proyecto HACKberry: Miembro colaborador de Misión Arm</h1>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/eduardoleon9010/Hackberry-hand/main/img/hackberry_banner.png" alt="Hackberry Arm" style="max-width: 100%; border-radius: 8px;">
+</p>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=16A34A&size=24&center=true&vCenter=true&width=800&height=60&lines=Innovaci%C3%B3n+en+pr%C3%B3tesis+rob%C3%B3ticas;Colaboraci%C3%B3n+acad%C3%A9mica+abierta;Desarrollo+de+extremidades+artificiales;Conocimiento+libre+y+sin+%C3%A1nimo+de+lucro;Compromiso+%C3%A9tico+y+legal"/>
   </a>
 </p>
+
 
 <p align="center">
   Este repositorio colaborativo, como parte de <strong>Misión Arm</strong>, está orientado a la investigación, desarrollo y educación en el campo de las extremidades artificiales. Promueve el avance científico y tecnológico mediante el trabajo conjunto entre desarrolladores, investigadores y académicos.
